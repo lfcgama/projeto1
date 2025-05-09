@@ -1,2 +1,3 @@
 Arquivo exemplo
 Conteúdo novo
+Nova alteração no arquivo existente
