@@ -1,2 +1,6 @@
 Arquivo exemplo
+<<<<<<< HEAD
 Novo exemplo adicionado
+=======
+Conteúdo novo
+>>>>>>> 38f5030 (Mudança na branch nova)
